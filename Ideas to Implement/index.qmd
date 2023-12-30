@@ -1,0 +1,16 @@
+---
+title: "Ideas to implement"
+---
+# Ideas to implement
+
+- Word-cloud in Telugu
+
+- Twitter page with Telugu blog Aggregator
+
+- Aggregate content in Other platforms like Insta, Facebook, Twitter, Blogs. 
+
+- Telugu stack exchange
+
+  - Kakinada map with main roads a lines 
+  map of Kakinada with the lines indicating the roads on the map 
+  and a linear representation which states the places . 

@@ -1,0 +1,58 @@
+---
+title: "TeluguSocial"
+author: "తులసీమోహన్"
+date: "28-12-2023"
+categories: [Telugu, Social]
+---
+Alternate name: TeluguKendram
+
+# Idea
+Forum for all things telugu
+Keep a list of exiting telugu channels/pages/ accounts
+
+## Todo
+
+## Goal
+- Online forums in telugu
+- Forum to Make Tools available for creating telugu content
+- Scrape all interesting telugu content on the web
+- increase telugu content on the web
+- Meme-page
+
+## QnA
+
+- Is it for telugu language or Telugu people? 
+
+- Is it going to be political?
+
+- Should it have Politics, Movies, Cricket? 
+
+- How does it handle Caste and Religion?
+
+- How to make it wide-spread? 
+
+# Socail media platforms
+
+## Discord
+- Discord Server: TeluguKendram
+
+## Reddit
+- Reddit Community: TeluguKendram
+
+## Wikipedia
+
+## Twitter
+
+## StackExchange
+
+## Facebook
+
+## Youtube
+Top Telugu Youtubers
+- Source : https://www.youtube.com/watch?v=7Y6N-w2rkW0&ab_channel=Top10Telugu , Top10Telugu channel
+- Full details available in [Telugu Youtubers](youtubeTop10.qmd)
+
+
+- Implement a Barchart race of telugu youtubers
+scrape the data from social blade using google sheets 
+use florish to make a barchart race

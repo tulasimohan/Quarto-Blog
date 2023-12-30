@@ -1,0 +1,271 @@
+---
+title: "గణిత పదజాలం" 
+author: ["అనూష", "తులసీమోహన్"]
+date: "2023-12-29"
+categories: [Telugu, Math, Vocabulary]
+---
+
+:::{.callout-note collapse="true" appearance="minimal"}
+# set-theory : సమితి వాదన
+- element     : మూలకం
+- set         : సమితి
+- empty-set   : శూన్య సమితి
+- universal set: విశ్వ సమితి, సార్వత్రిక సమితి
+- sub-set     : ఉపసమితి   
+- super-set   : ఉన్నత సమితి
+- union       : సమ్మేళనం
+- intresection: ఛేదనం
+- power-set   : గాత సమితి  
+- containment : 
+- cartesian-product: 
+- disjoint sets: వియుక్త సమితులు
+- commom elements : ఉమ్మడి మూలకాలు
+- cardinality : కార్దినల్ సంఖ్య
+- equal sets : సంఆన సంఖ్య
+- equivalent sets : సమ సమితి 
+- singleton set: ఏక మూలక సమితి
+- list : జాబితా
+- set-builder form : సమితి నిర్మాణ రూపం
+- enumnerative form: జాబితా రూపం
+- venn-diagram: వెన్-చిత్రం
+
+:::{.callout-note collapse="true" appearance="minimal"} 
+### relation  : 
+- equality : సమానత
+- inequality : అసమానత
+- greater than : 
+- less than: 
+:::
+
+:::{.callout-note collapse="true" appearance="minimal"}
+### function  : 
+- domain : 
+- co-domain :
+- range : 
+- injection : 
+- surjection : 
+- bijection :
+- inverse function: 
+:::
+:::
+
+
+:::{.callout-note collapse="true" appearance="minimal"}
+# Logic : తర్కం
+- proposition: 
+- statement:
+- expression: 
+- sentence:
+- equation: సమీకరణం
+- logical connectives: 
+- conjunction(AND):
+- disjunction(OR):  
+- implication :
+- bi-implication :
+- converse:
+- inverse: 
+- contra-positive: 
+- true :
+- false: 
+- proof :
+- formula: 
+- satisfiability:
+- tautology : 
+- contradiction :  
+:::
+
+:::{.callout-note collapse="true" appearance="minimal"}
+# arithmetic : అంక గణితం 
+- zero : సున్నా 
+- number : సంఖ్య
+- natural numbers: సహజ సంఖ్యలు
+- whole numners : పూర్ణాంకాలు 
+- integers: పూర్ణ సంఖ్యలు 
+- fraction: భిన్నం
+- rational numbers: అకరణీయ సంఖ్యలు
+- irrational numbers: కరణీయ సంఖ్యలు 
+- real number: వాస్తవ సంఖ్యలు
+- complex numbers : సంకీర్ణ సంఖ్యలు
+- addition : కూడిక
+- subtraction : తీసివెత
+- multiplication : గుణకారం 
+- product : 
+- division : భాగాహారము 
+- quotient : 
+- remainder:
+- divisor: 
+- dividend:  
+- exponent : గాతం
+- power : గాతాంకం 
+- base : 
+:::
+
+:::{.callout-note collapse="true" appearance="minimal"}
+# geometry : జామితి/ రేఖా గణితం
+- point : బిందువు
+- straight line : రేఖ
+- line-segement : రేఖాఖండము
+- ray : కిరణం 
+- curve : 
+
+:::{.callout-note collapse="true" appearance="minimal"}
+## angle : కోణం
+- intresection: 
+- vertex : 
+- angle : కోణం
+- right angle: లంబకోణం
+- acute angle : అల్పకోణం  
+- obtuse angle : 
+- straight angle: 
+- reflex angle :
+- complete angle:
+- parallel : సమాంతరం
+- perpendicular :  
+- complementary angles:
+- supplementary angles: 
+::: 
+
+:::{.callout-note collapse="true" appearance="minimal"}
+## pair of straight lines
+- parallel lines: 
+- perpendicular lines:
+- transversal :  
+- corresponding angles:
+- vertically opposite angles: 
+- angles on the same side of the transversal: 
+:::
+
+:::{.callout-note collapse="true" appearance="minimal"}
+## closed figures
+
+:::{.callout-note collapse="true" appearance="minimal"}
+### triangle : త్రికోణం
+- vertex: 
+- side : 
+- perpendicular bisector:
+- median : 
+- angle bisector:
+- altitude : 
+- circum-centre: 
+- centroid: 
+- in-centre: 
+- ortho-centre
+:::
+
+:::{.callout-note collapse="true" appearance="minimal"}
+### quadrilateral : 
+- square : 
+- rectangle :
+- parallelogram :
+- trapezium :  
+- rhombus : 
+- side  :
+- diagonal : 
+:::
+
+:::{.callout-note collapse="true" appearance="minimal"}
+### polygon : 
+- pentagon : 
+- hexagon : 
+- septagon : 
+- octagon : 
+- nanogon : 
+- decagon: 
+:::
+
+:::{.callout-note collapse="true" appearance="minimal"}
+### circle : 
+- semi-circle : 
+- radius : 
+- diameter : 
+- arc :
+- sector: 
+- chord :
+- centre : 
+- tangent : 
+- secant : 
+:::
+
+:::{.callout-note collapse="true" appearance="minimal"}
+### Conic sections : 
+- ellipse: 
+- parabola 
+- hyperbola
+:::
+:::
+:::
+
+:::{.callout-note collapse="true" appearance="minimal"}
+# Trigonometry : త్రికోణమితి
+- sine : 
+- cosine : 
+- tangent : 
+- co-tangent :
+- secant : 
+- co-secant :
+:::
+
+:::{.callout-note collapse="true" appearance="minimal"}
+# Algebra : బీజ గణితం
+- variable : చర రాశి 
+- constant : స్థిర రాశి
+- linear : రేఖీయ
+- Quadratic :  
+- monomial : 
+- poynomial : బహుపది 
+- degree : 
+- coefficient :
+
+:::{.callout-note collapse="true" appearance="minimal"}
+## Linear Algebra
+- vector space :
+- sub-space : 
+- basis : 
+- endo-morphism: 
+- homo-morphism:
+- iso-morphism:
+- kernel : 
+::: 
+
+:::{.callout-note collapse="true" appearance="minimal"}
+### properties
+- associative : 
+- commutative :
+- distributive : 
+:::
+
+:::{.callout-note collapse="true" appearance="minimal"}
+## Group theory :
+- group : 
+- identity: 
+- inverse: 
+- subgroup : 
+- normal subgroup: 
+- quotient : 
+- ring :
+:::
+:::
+
+:::{.callout-note collapse="true" appearance="minimal"}
+# Analysis : 
+- space :
+- metric-space:
+- ball : 
+::: 
+
+:::{.callout-note collapse="true" appearance="minimal"}
+# Combinatorics : 
+- permutations : ప్రస్తారాలు 
+- combinations : సంయోగాలు
+- counting: లెక్కింపు
+- probability : సంభావ్యత
+
+:::{.callout-note collapse="true" appearance="minimal"}
+## Graph theory: 
+- graph : 
+- vertex : 
+- edge : 
+- clique : 
+- independent set: 
+:::
+:::
