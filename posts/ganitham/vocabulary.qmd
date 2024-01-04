@@ -21,7 +21,7 @@ categories: [Telugu, Math, Vocabulary]
 - disjoint sets: వియుక్త సమితులు
 - commom elements : ఉమ్మడి మూలకాలు
 - cardinality : కార్దినల్ సంఖ్య
-- equal sets : సమాన సంఖ్య
+- equal sets : సమాన సమితులు
 - equivalent sets : సమ సమితి 
 - singleton set: ఏక మూలక సమితి
 - list : జాబితా
@@ -267,5 +267,7 @@ categories: [Telugu, Math, Vocabulary]
 - edge : 
 - clique : 
 - independent set: 
+- bi-partite graph : 
+- planar graph : 
 :::
 :::
